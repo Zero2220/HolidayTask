@@ -1,0 +1,134 @@
+.header1 {
+    height: 100px;
+    width: 100%;
+    background-color: rgb(32, 32, 32);
+    padding-top: 1px;
+    
+    display: flex;
+    justify-content: space-between; 
+}
+.header2{
+    height: 500px;
+    width: 100%;
+    background-color: rgb(32, 32, 32);
+    padding-top: 1px;
+    
+    display: flex;
+    justify-content: space-between; 
+
+}
+.header3{
+    height: 500px;
+    width: 100%;
+    background-color: white;
+    padding-top: 1px;
+    display: flex;
+    
+}
+.header4{
+    height: 270px;
+    width: 100%;
+    background-color: rgb(235, 232, 232);
+    padding-top: 1px;
+    
+}
+.header5{
+    height: 700px;
+    width: 100%;
+    background-color: white;
+    padding-top: 1px;
+}
+
+.item1{
+    height: 500px;
+    width: 500px;
+    text-align: center;
+    padding-top: 100px;
+    padding-left: 100px;
+
+}
+.item2{
+    height: 500px;
+    width: 400px;
+    text-align: center;
+    padding-top: 100px;
+    padding-left: 100px;
+}
+
+.link1 {
+    background-color: rgb(32, 32, 32);
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-decoration: none;
+    text-decoration-line: none;
+    height: 50px;
+    width: 400px;
+    padding-left: 180px;
+}
+
+.list1 {
+    display: flex;
+    list-style-type: none;
+    font-size: 20px;
+    
+    margin: 0;
+    padding: 0;
+    padding-right: 10px;
+}
+
+.list1 li {
+    margin-right: 10px;
+}
+
+.list1 li a {
+    color: gray;
+    text-decoration: none;
+    padding: 16px;
+    opacity: 0.5;
+    transition: 0.5s;
+}
+
+.list1 li a:hover {
+    opacity: 0.8;
+    
+}
+
+.button {
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  .button1 {
+    background-color: rgb(14, 6, 159); 
+    color: white; 
+    border-radius: 8px;
+    
+  }
+  
+  .button1:hover {
+    background-color: #07046c;
+    color: white;
+  }
+  
+  .button2 {
+    background-color:rgb(32, 32, 32);; 
+    color: white; 
+    border: 2px solid white;
+    border-radius: 8px;
+  }
+  
+  .button2:hover {
+    background-color: white;
+    color: black;
+  }
+  .sh{
+    box-shadow: 2px 2px 8px 8px rgb(201, 201, 201);
+  }

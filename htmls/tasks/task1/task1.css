@@ -1,0 +1,23 @@
+.image1{
+    text-align: center;
+    
+}
+.image1 img {
+    width: 130px; 
+    height: auto; 
+}
+.item1{
+    text-align:center;
+    
+}
+
+.par1{
+    padding-left: 290px;
+    padding-right: 290px;
+    font-weight: 200;
+}
+
+.item2{
+    padding-left: 290px;
+    padding-right: 290px;
+}
